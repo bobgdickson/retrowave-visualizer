@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  background: #04000f;
+  color: #f6f3ff;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
